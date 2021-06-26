@@ -25,10 +25,21 @@ description: Look at me! I'm a website
 navbar-links:
   About Me: 
     - About Me: "aboutme"
+    - GitHub: "https://github.com/ACharbonneau"
+    - Twitter: "https://twitter.com/procrastinomics"
+    - ORCID: "https://orcid.org/0000-0001-7376-7702"
+    - Google Scholar: "https://scholar.google.com/citations?user=edALw_MAAAAJ&hl=en"
+    - LinkedIn: "https://linkedin.com/in/Amanda%20Charbonneau"
     - CV: "../AC_cv_web.pdf"
   Tutorials: 
     - Using LaTex: "https://github.com/ACharbonneau/LaTeX2016"
     - Intro to Shell Scripting: "https://github.com/ACharbonneau/2016-01-18-MSU/blob/gh-pages/Lessons/05_DataFilesAndScripts.rst" 
+    - RNA-Seq Concepts: "https://osf.io/kj5av/"
+    - RNA-Seq in the Cloud: "https://hackmd.io/HX8SSZMnQ9GjxBIa_XULFg"
+  Talk slides and Recordings:
+    - Common Fund Data Ecosystem Portal Demo: "https://osf.io/4twdf/"
+    - GO FAIR US webinar- FAIR on the Ground: "https://gofair.us/events/2021-04-01-fair-on-the-ground.html"
+    - Nebraska CBIC: "https://osf.io/gq4rk/"
   Other Projects:
     - Data Carpentry: "http://www.datacarpentry.org/cloud-genomics/"
     - GK12: "http://kbsgk12project.kbs.msu.edu/search-lesson-plans/"
